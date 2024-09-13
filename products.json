@@ -1,9 +1,8 @@
 {
-  "e31c4c44-734f-4d73-8830-6e8df0397f7b": {
-    "id": "e31c4c44-734f-4d73-8830-6e8df0397f7b",
-    "name": "Wrist watch",
-    "price": 500,
-    "quantity": 50,
-    "image": "image_url.png"
+  "id": "3f45c568-1533-4f16-95c4-e08a10dec831",
+  "name": "Wiget",
+  "price": 600,
+  "quantity": 50,
+  "image": "imgurl.cdn"
   }
 }
