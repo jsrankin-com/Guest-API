@@ -1,8 +1,9 @@
 {
-  "id": "3f45c568-1533-4f16-95c4-e08a10dec831",
-  "name": "Wiget",
-  "price": 600,
-  "quantity": 50,
-  "image": "imgurl.cdn"
+  "3f45c568-1533-4f16-95c4-e08a10dec831": {
+    "id": "3f45c568-1533-4f16-95c4-e08a10dec831",
+    "name": "Wiget",
+    "price": 200,
+    "quantity": 75,
+    "image": "image_url.cdn"
   }
 }
